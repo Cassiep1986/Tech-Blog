@@ -45,3 +45,10 @@ document
 document
   .querySelector('.project-list')
   .addEventListener('click', delButtonHandler);
+
+
+  const btn = document.querySelector("#newBtn");
+  btn.onclick = function () {
+    let blogEntry = document.querySelector(".hide");
+    blogEntry.classList.remove("hide");
+  };
