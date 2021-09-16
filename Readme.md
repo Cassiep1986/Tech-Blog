@@ -23,7 +23,7 @@ The following image shows an example of a blog post
 ## License
 
 This application is covered under a MIT license. 
-To learn more about this license, please visit the following site:[https://choosealicense.com/licenses/mit/](https://choosealicense.com/licenses/mit/).
+To learn more about this license, please visit the following site: [https://choosealicense.com/licenses/mit/](https://choosealicense.com/licenses/mit/).
 
 ## Contributing
 To contribute to this repo, please contact me on GITHUB or by email (Link below).
