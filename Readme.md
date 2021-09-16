@@ -18,7 +18,7 @@ This application is deployed at the following link: [enigmatic-cliffs-62270](eni
 
 The following image shows an example of a blog post
 
-![blog image](./public/images/blog_img.PNG)
+![blog image](public/images/blog_img.PNG)
 
 ## License
 
